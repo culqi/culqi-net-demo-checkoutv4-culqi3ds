@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "GiIF9Mes7ITHz2qItt1Z38QliwEx9TtMhyvUMarTRfkir2ST1sZXAduT9hzyqfvAtX7NaP0N2W+6FYjn7ZvY6A==",
+  "success": true,
+  "projectFilePath": "/Users/apple/Downloads/Demo/Demo.csproj",
+  "expectedPackageFiles": [
+    "/Users/apple/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/apple/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/apple/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
+    "/Users/apple/.nuget/packages/restsharp/108.0.3/restsharp.108.0.3.nupkg.sha512",
+    "/Users/apple/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/apple/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/apple/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/apple/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
