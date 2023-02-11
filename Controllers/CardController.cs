@@ -12,7 +12,7 @@ namespace Demo.Controllers
 {
     
     [Route("api/[controller]")]
-    public class CardController : Controller
+    public class CardController : GenericController
     {
         Security security = null;
         // GET: api/values
@@ -36,9 +36,7 @@ namespace Demo.Controllers
         {
             string customer_id = form["customer_id"].FirstOrDefault();
             string token_id = form["token"].FirstOrDefault();
-            security = new Security();
-            security.public_key = "pk_test_90667d0a57d45c48";
-            security.secret_key = "sk_test_1573b0e8079863ff";
+            security = securityKeys();
 
 
             string eci = form["eci"].FirstOrDefault();
