@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/apple/Downloads/Demo/Demo.csproj": {}
+    "/Users/admin/Documents/Culqi/culqi-netcore-demo-checkoutv4-culqi3ds/Demo.csproj": {}
   },
   "projects": {
-    "/Users/apple/Downloads/Demo/Demo.csproj": {
+    "/Users/admin/Documents/Culqi/culqi-netcore-demo-checkoutv4-culqi3ds/Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/apple/Downloads/Demo/Demo.csproj",
+        "projectUniqueName": "/Users/admin/Documents/Culqi/culqi-netcore-demo-checkoutv4-culqi3ds/Demo.csproj",
         "projectName": "Demo",
-        "projectPath": "/Users/apple/Downloads/Demo/Demo.csproj",
-        "packagesPath": "/Users/apple/.nuget/packages/",
-        "outputPath": "/Users/apple/Downloads/Demo/obj/",
+        "projectPath": "/Users/admin/Documents/Culqi/culqi-netcore-demo-checkoutv4-culqi3ds/Demo.csproj",
+        "packagesPath": "/Users/admin/.nuget/packages/",
+        "outputPath": "/Users/admin/Documents/Culqi/culqi-netcore-demo-checkoutv4-culqi3ds/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/apple/.nuget/NuGet/NuGet.Config"
+          "/Users/admin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -44,7 +44,7 @@
             },
             "RestSharp": {
               "target": "Package",
-              "version": "[108.0.3, )"
+              "version": "[110.2.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -70,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }
